@@ -5,8 +5,8 @@ layout: home
 <div class="index-content project">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>发呆</span></a></li>
-            <li class="on" style="text-align:right"><a href="/project"><span>学习</span></a></li>
+            <li><a href="/"><span>发呆和胡言乱语</span></a></li>
+            <li class="on" style="text-align:right"><a href="/project"><span>学习与技术分享</span></a></li>
         </ul>
         <div class="cate-bar"><span id="cateBar"></span></div>
         <ul class="artical-list">
