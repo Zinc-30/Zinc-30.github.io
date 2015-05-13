@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:month-:day-:year/:title.html
 
-title: xin
+title: 发呆的地方
 url: http://blog.xinhaoboy.com
 feed: /atom.xml
 author_info: <a href="http://blog.xinhaoboy.com/">XinHao</a>
