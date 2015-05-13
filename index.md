@@ -16,7 +16,7 @@ layout: home
         {% for post in site.categories.blog %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="entry-date">{{ post.date|date:"%Y-%m-%d" }}</p>
+                <p>{{ post.date|date:"%Y-%m-%d" }}</p>
                 <div class="title-desc">{{ post.description }}</div>
             </li>
         {% endfor %}
