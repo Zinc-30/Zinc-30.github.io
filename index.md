@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content opinion">
     <div class="section">
         <ul class="artical-cate">
-            <!-- <li class="on"><a href="/"><span>Blog</span></a></li> -->
-            <li style="text-align:center"><a href="/opinion"><span>thinking</span></a></li>
+            <li class="on"><a href="/"><span>thinking</span></a></li> 
+            <!-- <li style="text-align:center"><a href="/opinion"><span>thinking</span></a></li> -->
             <li style="text-align:right"><a href="/project"><span>Project</span></a></li>
         </ul>
 
