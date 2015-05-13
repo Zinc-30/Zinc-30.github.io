@@ -17,8 +17,8 @@ layout: home
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
+                    <p>{{ post.date|date:"%Y-%m-%d" }}</p>
                 </h2>
-                <p>{{ post.date|date:"%Y-%m-%d" }}</p>
                 <div class="title-desc">{{ post.description }}</div>
             </li>
         {% endfor %}
